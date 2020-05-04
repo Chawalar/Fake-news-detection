@@ -16,4 +16,4 @@ Implemented five basic machine learning algorithms for fake news detection:
 - cleaner.py - functions for text cleaning and filtering
 
 # Most common words in fake news articles
-![WordCloud]https://raw.githubusercontent.com/Chawalar/Fake-news-detection/master/img/wordcloud.png
+![WordCloud](https://raw.githubusercontent.com/Chawalar/Fake-news-detection/master/img/wordcloud.png)
