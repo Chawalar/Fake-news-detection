@@ -1,3 +1,5 @@
+[Article](https://github.com/Chawalar/Fake-news-detection/blob/master/Fake_news_detection.pdf) about this project
+
 # Fake news detection project for Huawei NLP course
 
 Everyday we accessing media outlets such as news blogs, social media feeds, and online newspapers have made it challenging to identify trustworthy news sources, thus increasing the need for computational tools able to provide insights into the reliability of online content.
